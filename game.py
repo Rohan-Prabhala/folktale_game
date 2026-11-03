@@ -35,7 +35,7 @@ puzzleKeysNeeded = 4
 riddleKeys = 0
 riddleKeysNeeded = 2
 
-circuit_link = ""
+circuit_link = "https://github.com/Rohan-Prabhala/folktale_game/blob/main/booi383170460799552695.png"
 
 game_running = True
 
