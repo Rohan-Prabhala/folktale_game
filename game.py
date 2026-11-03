@@ -148,7 +148,6 @@ def RiddleRoom(row, col):
 
 
 while game_running:
-    print(f"{row} {col}")
     if IsIndexRoom(row, col, Room.END) and puzzleKeys == puzzleKeysNeeded and riddleKeys == riddleKeysNeeded:
         print("\nYOU BEAT THE GAME!")
         game_running = False
